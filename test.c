@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello,world!\n");
+	printf("I am study git;\n");
 	return 0;
 }
