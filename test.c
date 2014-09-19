@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("I am study git,OK;\n");
+	printf("I am study git,okk;\n");
 	return 0;
 }
